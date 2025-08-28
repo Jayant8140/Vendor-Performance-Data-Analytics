@@ -10,7 +10,7 @@ It covers **data ingestion, SQL transformations, Python-based exploratory analys
 ```
 Vendor Performance Data Analytics/
 │
-├── Data1/ # Raw CSV files (You can download from teh link given below)
+├── Data1/ # Raw CSV files (You can download from the link given below)
 │
 ├── ingestion.py # Script to load CSV data into SQLite DB
 ├── get_vendor_summary-checkpoint.py # Script to create vendor summary table
